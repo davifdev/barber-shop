@@ -1,4 +1,4 @@
-# FSW Barber
+# Barber Shop
 
 Aplicação web para encontrar barbearias, consultar serviços e horários disponíveis e gerenciar reservas.
 
